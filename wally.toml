@@ -1,5 +1,13 @@
 [package]
 name = "sumer/fastpacket"
+description = "https://github.com/SUMER9999dev/FastPacket"
+
+license = "MIT"
+authors = ["SUMER <Discord: sumer_real>"]
+
+include = ["src/FastPacket"]
+exclude = ["FastPacket/__tests__"]
+
 version = "1.0.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
