@@ -11,9 +11,6 @@ sourcemap:
 	rojo sourcemap $(PROJECT) --output sourcemap.json
 	wally-package-types --sourcemap sourcemap.json $(PACKAGES)
 
-publish:
-	wally publish
-
 build:
 	rojo build --output $(OUTPUT)
 
