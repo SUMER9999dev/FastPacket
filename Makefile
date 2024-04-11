@@ -1,4 +1,4 @@
-PROJECT = default.project.json
+PROJECT = test.project.json
 PACKAGES = DevPackages/
 OUTPUT = FastPacket.rbxlx
 RUN_TESTS = src/run-tests.lua

@@ -6,7 +6,7 @@ license = "MIT"
 authors = ["SUMER <Discord: sumer_real>"]
 
 include = ["src/FastPacket"]
-exclude = ["src/FastPacket/__tests__", "FastPacket.rbxlx"]
+exclude = ["src/FastPacket/__tests__", "FastPacket.rbxlx", "test.project.json", "src/jest.config.lua", "src/run-tests.lua"]
 
 version = "1.0.1"
 registry = "https://github.com/UpliftGames/wally-index"
