@@ -1,10 +1,6 @@
 {
     "name": "FastPacket",
     "tree": {
-      "$className": "DataModel",
-  
-      "ReplicatedStorage": {
-        "$path": "src"
-      }
+      "$path": "src/FastPacket"
     }
   }
