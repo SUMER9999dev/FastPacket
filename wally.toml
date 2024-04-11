@@ -8,7 +8,7 @@ authors = ["SUMER <Discord: sumer_real>"]
 include = ["src/FastPacket"]
 exclude = ["src/FastPacket/__tests__", "FastPacket.rbxlx"]
 
-version = "1.0.0"
+version = "1.0.1"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
